@@ -1,4 +1,4 @@
-# AG-DBSwin: Attribution-Guided Dual-Branch Swin Transformer
+# AG-DBSwin: AG-DBSwin: Attribution-Guided Dual-Branch Swin Transformer for Ordinal Diabetic Retinopathy Grading
 
 AG-DBSwin is a research pipeline for five-class diabetic retinopathy (DR) grading from retinal fundus photographs. A base Swin Transformer learns visual features from RGB images, Integrated Gradients produces lesion-attribution maps, and a second Swin branch learns from those maps alongside the RGB branch.
 
@@ -36,7 +36,7 @@ The Kaggle data card describes 3,662 fundus photographs collected under varied i
 | 3 | Severe DR |
 | 4 | Proliferative DR |
 
-The raw dataset is not included in this repository. At the time this README was prepared, the supplied Kaggle mirror listed its license as **Unknown**. Download and use the data only in accordance with the Kaggle dataset page and any applicable APTOS competition terms.
+The raw dataset is not included in this repository. At the time this README was prepared, the supplied Kaggle mirror listed its license as **Unknown**. Download and use the data only in accordance with the Kaggle dataset page and any applicable APTOS 2019 competition terms.
 
 Download with the Kaggle CLI:
 
