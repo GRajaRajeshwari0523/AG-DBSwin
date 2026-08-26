@@ -24,7 +24,7 @@ The earlier loopback fine-tuning stage is intentionally excluded. Its measured g
 
 ## Dataset
 
-Experiments use the [APTOS-2019 dataset on Kaggle](https://www.kaggle.com/datasets/mariaherrerot/aptos2019), a split version of the APTOS 2019 Blindness Detection data.
+Experiments use the [(https://www.kaggle.com/competitions/aptos2019-blindness-detection/data), a split version of the APTOS 2019 Blindness Detection data.
 
 The Kaggle data card describes 3,662 fundus photographs collected under varied imaging conditions and reviewed by trained clinicians. Labels follow five diabetic-retinopathy severity grades:
 
