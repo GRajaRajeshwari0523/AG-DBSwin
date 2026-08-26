@@ -1,4 +1,4 @@
-# AG-DBSwin: AG-DBSwin: Attribution-Guided Dual-Branch Swin Transformer for Ordinal Diabetic Retinopathy Grading
+# AG-DBSwin: Attribution-Guided Dual-Branch Swin Transformer for Ordinal Diabetic Retinopathy Grading
 
 AG-DBSwin is a research pipeline for five-class diabetic retinopathy (DR) grading from retinal fundus photographs. A base Swin Transformer learns visual features from RGB images, Integrated Gradients produces lesion-attribution maps, and a second Swin branch learns from those maps alongside the RGB branch.
 
