@@ -1,0 +1,6 @@
+run_name,config,seed,acc,kappa,base_config,fold
+full_model_cv0_seed0,full_model_cv0,0,0.8989071038251366,0.9435854684711675,full_model,0
+full_model_cv1_seed0,full_model_cv1,0,0.8989071038251366,0.9300556751729497,full_model,1
+full_model_cv2_seed0,full_model_cv2,0,0.8989071038251366,0.9473019147701631,full_model,2
+full_model_cv3_seed0,full_model_cv3,0,0.8715846994535519,0.9350617849586977,full_model,3
+full_model_cv4_seed0,full_model_cv4,0,0.8989071038251366,0.9492194003662863,full_model,4

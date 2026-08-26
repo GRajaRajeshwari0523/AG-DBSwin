@@ -1,0 +1,8 @@
+run_name,config,seed,acc,kappa
+full_model_seed0,full_model,0,0.909836066,0.941780402
+no_augmentation_seed0,no_augmentation,0,0.844262295,0.907883817
+no_ordinal_smoothing_seed0,no_ordinal_smoothing,0,0.87704918,0.926851536
+no_dual_branch_seed0,no_dual_branch,0,0.81420765,0.909560287
+no_tta_seed0,no_tta,0,0.890710383,0.93844681
+no_class_weighting_seed0,no_class_weighting,0,0.907103825,0.947209714
+no_cosine_scheduler_seed0,no_cosine_scheduler,0,0.901639344,0.929657287
