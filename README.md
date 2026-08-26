@@ -41,7 +41,7 @@ The raw dataset is not included in this repository. At the time this README was 
 Download with the Kaggle CLI:
 
 ```bash
-kaggle datasets download -d mariaherrerot/aptos2019
+kaggle competitions download -c aptos2019-blindness-detection
 ```
 
 Arrange the extracted split files for the notebook as follows. If the downloaded directory names differ, rename them or update the driver paths in the notebook.
