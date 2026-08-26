@@ -221,6 +221,15 @@ Refer to [`results/manifest.csv`](results/manifest.csv) for the experiment name,
 - Generated heatmaps and checkpoints are retained to support exact downstream reruns without regenerating every intermediate artifact.
 - Hardware, CUDA kernels, data-loader workers, and library versions can still introduce nondeterminism; exact bitwise reproduction is not guaranteed.
 
+## Authors
+
+RajaRajeshwari G School of Computer Science Engineering and Information Systems Vellore Institute of Technology Vellore, Tamil Nadu, India
+
+Chemmalar Selvi G School of Computer Science Engineering and Information Systems Vellore Institute of Technology Vellore, Tamil Nadu, India
+
+Corresponding Author: Chemmalar Selvi G
+
+
 ## Acknowledgements
 
 This work uses the APTOS 2019 Blindness Detection data distributed through Kaggle. The dataset is associated with the Asia Pacific Tele-Ophthalmology Society and fundus-image collection efforts described by the Kaggle data card, including Aravind Eye Hospital in India.
