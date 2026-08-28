@@ -36,8 +36,6 @@ The Kaggle data card describes 3,662 fundus photographs collected under varied i
 | 3 | Severe DR |
 | 4 | Proliferative DR |
 
-The raw dataset is not included in this repository. At the time this README was prepared, the supplied Kaggle mirror listed its license as **Unknown**. Download and use the data only in accordance with the Kaggle dataset page and any applicable APTOS 2019 competition terms.
-
 Download with the Kaggle CLI:
 
 ```bash
